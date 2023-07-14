@@ -24,9 +24,4 @@ Automatic Continuous Integration and Delivery Suite
 * Ansible para la configuración del sistema y el despliegue en Azure Cloud
 
 
-## Sample Video Demonstrations
-
-Sample video output can be found out for visual experience [here](https://youtu.be/EE1Z_9F98vU) :
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=EE1Z_9F98vU" target="_blank"><img src="http://img.youtube.com/vi/EE1Z_9F98vU/0.jpg" alt="IMAGE ALT TEXT HERE" width="530" height="360" /></a>
 
